@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Update the apt package index
+# Update the apt package 
 sudo apt update
 
 # Install packages to allow apt to use a repository over HTTPS

@@ -1,6 +1,6 @@
 # AWS EKS 
 
-## Introduction..
+## Introduction.
 
 ## Table of Contents:
 
